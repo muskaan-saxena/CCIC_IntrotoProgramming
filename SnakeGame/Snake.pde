@@ -11,7 +11,7 @@ public class Snake {
   
   public void drawSnake(){
     fill(0,255,0);
-    rect(x,y,10,10);
+    rect(x,y,15,15);
   }
   
   public void moveSnake(){
