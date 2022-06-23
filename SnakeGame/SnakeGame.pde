@@ -18,7 +18,7 @@ void draw (){
   }else if (s.getY()<0||s.getY()>400) 
   ui.drawFinish();
 }*/
-//I used a tutorial because I couldn't figure it out on my own
+//I used a tutorial because I couldn't figure it out on my own :(
 ArrayList<Integer> x = new ArrayList<Integer>(), y = new ArrayList<Integer>();
 int w=30, h=30, blocks=20, direction=2, foodx=15, foody=15, speed = 8, fc1 = 255, fc2 = 255, fc3 = 255; 
 int[]x_direction={0, 0, 1, -1}, y_direction={1, -1, 0, 0}; 
