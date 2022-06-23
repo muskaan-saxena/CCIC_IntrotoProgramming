@@ -1,7 +1,14 @@
-public class Snake {
+/*public class Snake {
   int x;
   int y;
   String currentDirection;
+  
+  public int getX(){
+    return x;
+  }
+  public int getY(){
+    return y;
+  }
   
   public Snake(){
     x = 200;
@@ -36,4 +43,4 @@ public class Snake {
       currentDirection = "Left";
     }
   }
-}
+}*/
